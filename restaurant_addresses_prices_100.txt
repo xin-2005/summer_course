@@ -1,0 +1,101 @@
+Restaurant Name | Address | Average Price
+1. Harbor Noodle House | 12 Victoria Road, Kennedy Town, Hong Kong | HKD 88 per person
+2. Golden Bamboo Kitchen | Shop 4, 28 Nathan Road, Tsim Sha Tsui, Hong Kong | HKD 135 per person
+3. Jade Dumpling Bar | 56 Hennessy Road, Wan Chai, Hong Kong | HKD 76 per person
+4. Red Lantern Bistro | G/F, 19 Hollywood Road, Central, Hong Kong | HKD 210 per person
+5. Blue Bay Seafood | 8 South Bay Road, Repulse Bay, Hong Kong | HKD 320 per person
+6. Lotus Garden Cafe | 33 Garden Road, Central, Hong Kong | HKD 118 per person
+7. Star Ferry Grill | Pier 7, Central Ferry Piers, Hong Kong | HKD 165 per person
+8. Moonlight Hotpot | 21 Lockhart Road, Wan Chai, Hong Kong | HKD 228 per person
+9. Green Tea Kitchen | Shop B, 64 Queens Road East, Wan Chai, Hong Kong | HKD 92 per person
+10. Dragon Wok Express | 102 Canton Road, Tsim Sha Tsui, Hong Kong | HKD 68 per person
+11. Pearl River Roast | 45 Des Voeux Road Central, Hong Kong | HKD 104 per person
+12. Little Sichuan Bowl | 17 Tung Choi Street, Mong Kok, Hong Kong | HKD 86 per person
+13. Silver Spoon Diner | 6 Duddell Street, Central, Hong Kong | HKD 248 per person
+14. Ocean Breeze Cafe | 88 Stanley Main Street, Stanley, Hong Kong | HKD 142 per person
+15. Maple Leaf Brunch | Shop 9, 15 Elgin Street, Soho, Hong Kong | HKD 158 per person
+16. Kowloon Curry House | 73 Austin Road, Jordan, Hong Kong | HKD 79 per person
+17. Sai Kung Crab Shack | 24 Man Nin Street, Sai Kung, Hong Kong | HKD 285 per person
+18. Central Rice Table | 11 Wellington Street, Central, Hong Kong | HKD 96 per person
+19. Happy Valley Pasta | 39 Sing Woo Road, Happy Valley, Hong Kong | HKD 188 per person
+20. North Point Tea Room | 218 Kings Road, North Point, Hong Kong | HKD 72 per person
+21. Causeway Sushi Counter | Shop 12, 500 Hennessy Road, Causeway Bay, Hong Kong | HKD 215 per person
+22. Quarry Bay Burger Co. | 979 Kings Road, Quarry Bay, Hong Kong | HKD 128 per person
+23. Yau Ma Tei Claypot | 33 Temple Street, Yau Ma Tei, Hong Kong | HKD 83 per person
+24. Sheung Wan Tapas | 52 Bonham Strand, Sheung Wan, Hong Kong | HKD 198 per person
+25. Tai Hang Dessert Lab | 18 Wun Sha Street, Tai Hang, Hong Kong | HKD 64 per person
+26. Aberdeen Fish Market Kitchen | 7 Aberdeen Praya Road, Aberdeen, Hong Kong | HKD 238 per person
+27. The Peak View Grill | 128 Peak Road, The Peak, Hong Kong | HKD 360 per person
+28. Mong Kok Skewer Club | 91 Sai Yeung Choi Street South, Mong Kok, Hong Kong | HKD 74 per person
+29. Prince Edward Congee | 22 Playing Field Road, Prince Edward, Hong Kong | HKD 55 per person
+30. Sham Shui Po Wonton | 155 Fuk Wa Street, Sham Shui Po, Hong Kong | HKD 48 per person
+31. Admiralty Salad Works | Shop 3, 18 Harcourt Road, Admiralty, Hong Kong | HKD 112 per person
+32. Tin Hau Pho House | 41 Electric Road, Tin Hau, Hong Kong | HKD 89 per person
+33. Ap Lei Chau Noodle Pier | 2 Lee Nam Road, Ap Lei Chau, Hong Kong | HKD 66 per person
+34. Lamma Island Garden Table | 15 Yung Shue Wan Main Street, Lamma Island, Hong Kong | HKD 148 per person
+35. Cheung Chau Bun Cafe | 8 Pak She Street, Cheung Chau, Hong Kong | HKD 61 per person
+36. Discovery Bay Family Kitchen | 23 Plaza Lane, Discovery Bay, Hong Kong | HKD 156 per person
+37. Tung Chung Roast Duck | 12 Tat Tung Road, Tung Chung, Hong Kong | HKD 93 per person
+38. Tuen Mun River Deli | 38 Tuen Mun Heung Sze Wui Road, Tuen Mun, Hong Kong | HKD 82 per person
+39. Yuen Long Beef Noodles | 61 Castle Peak Road, Yuen Long, Hong Kong | HKD 58 per person
+40. Tsuen Wan Dim Sum Hall | 99 Tai Ho Road, Tsuen Wan, Hong Kong | HKD 102 per person
+41. Kwai Fong Bento Stop | Shop 15, 223 Hing Fong Road, Kwai Fong, Hong Kong | HKD 71 per person
+42. Sha Tin Riverside Cafe | 18 Yuen Wo Road, Sha Tin, Hong Kong | HKD 116 per person
+43. Ma On Shan Grill Room | 36 On Chun Street, Ma On Shan, Hong Kong | HKD 134 per person
+44. Tai Po Market Kitchen | 14 Kwong Fuk Road, Tai Po, Hong Kong | HKD 69 per person
+45. Fanling Rice Corner | 55 San Wan Road, Fanling, Hong Kong | HKD 62 per person
+46. Sheung Shui Dumpling House | 31 San Fung Avenue, Sheung Shui, Hong Kong | HKD 57 per person
+47. Tseung Kwan O Pizza Bar | 8 Tong Tak Street, Tseung Kwan O, Hong Kong | HKD 146 per person
+48. Kwun Tong Lunch Box | 418 Kwun Tong Road, Kwun Tong, Hong Kong | HKD 63 per person
+49. Ngau Tau Kok Soup House | 77 Ngau Tau Kok Road, Kowloon, Hong Kong | HKD 54 per person
+50. Wong Tai Sin Veggie Bowl | 21 Lung Cheung Road, Wong Tai Sin, Hong Kong | HKD 78 per person
+51. Diamond Hill Teppan | 3 Fung Tak Road, Diamond Hill, Hong Kong | HKD 176 per person
+52. Kai Tak Pasta Loft | 12 Muk Tai Street, Kai Tak, Hong Kong | HKD 152 per person
+53. To Kwa Wan BBQ House | 66 Ma Tau Wai Road, To Kwa Wan, Hong Kong | HKD 119 per person
+54. Hung Hom Steak Kitchen | 8 Tak Hong Street, Hung Hom, Hong Kong | HKD 245 per person
+55. Whampoa Thai Table | 17 Tak On Street, Whampoa, Hong Kong | HKD 132 per person
+56. Mei Foo Family Diner | 9 Broadway, Mei Foo, Hong Kong | HKD 97 per person
+57. Lai Chi Kok Bakery Cafe | 688 Castle Peak Road, Lai Chi Kok, Hong Kong | HKD 84 per person
+58. Cheung Sha Wan Seafood Rice | 241 Cheung Sha Wan Road, Hong Kong | HKD 109 per person
+59. Olympic Korean Grill | 11 Hoi Fai Road, Tai Kok Tsui, Hong Kong | HKD 185 per person
+60. Tai Kok Tsui Ramen | 72 Ivy Street, Tai Kok Tsui, Hong Kong | HKD 91 per person
+61. West Kowloon Mezze | 18 Museum Drive, West Kowloon, Hong Kong | HKD 218 per person
+62. Austin Road Tea Kitchen | 9 Austin Road West, Tsim Sha Tsui, Hong Kong | HKD 126 per person
+63. Jordan Roast Goose | 48 Parkes Street, Jordan, Hong Kong | HKD 122 per person
+64. Tsim Sha Tsui Oyster Bar | 188 Canton Road, Tsim Sha Tsui, Hong Kong | HKD 298 per person
+65. Wan Chai Taco Stand | 83 Johnston Road, Wan Chai, Hong Kong | HKD 105 per person
+66. Central Vegetarian Table | 29 Pottinger Street, Central, Hong Kong | HKD 138 per person
+67. Mid-Levels Breakfast Room | 2 Robinson Road, Mid-Levels, Hong Kong | HKD 121 per person
+68. Sai Ying Pun Pasta Shop | 78 High Street, Sai Ying Pun, Hong Kong | HKD 157 per person
+69. Kennedy Town Curry Pot | 44 Davis Street, Kennedy Town, Hong Kong | HKD 101 per person
+70. Pok Fu Lam Garden Cafe | 131 Pok Fu Lam Road, Pok Fu Lam, Hong Kong | HKD 144 per person
+71. Cyberport Sushi Lab | 100 Cyberport Road, Pok Fu Lam, Hong Kong | HKD 204 per person
+72. Wong Chuk Hang Canteen | 25 Wong Chuk Hang Road, Hong Kong | HKD 94 per person
+73. Ocean Park Family Grill | 180 Wong Chuk Hang Road, Hong Kong | HKD 168 per person
+74. Stanley Dumpling Pier | 22 Stanley Market Road, Stanley, Hong Kong | HKD 88 per person
+75. Chai Wan Fish Ball Shop | 345 Chai Wan Road, Chai Wan, Hong Kong | HKD 49 per person
+76. Shau Kei Wan Boat Noodles | 109 Shau Kei Wan Main Street East, Hong Kong | HKD 67 per person
+77. Heng Fa Chuen Cafe | 10 Shing Tai Road, Heng Fa Chuen, Hong Kong | HKD 95 per person
+78. Taikoo Shing Bistro | 18 Taikoo Shing Road, Quarry Bay, Hong Kong | HKD 172 per person
+79. Fortress Hill Rice House | 31 Oil Street, Fortress Hill, Hong Kong | HKD 73 per person
+80. Causeway Bay Brasserie | 27 Yun Ping Road, Causeway Bay, Hong Kong | HKD 232 per person
+81. Times Square Noodle Bar | 1 Matheson Street, Causeway Bay, Hong Kong | HKD 118 per person
+82. Wan Chai Dim Sum Studio | 20 Queen's Road East, Wan Chai, Hong Kong | HKD 124 per person
+83. Sheung Wan Coffee Kitchen | 43 Jervois Street, Sheung Wan, Hong Kong | HKD 108 per person
+84. Central Oyster Room | 16 Ice House Street, Central, Hong Kong | HKD 315 per person
+85. Soho Wine Bistro | 24 Staunton Street, Central, Hong Kong | HKD 268 per person
+86. Lan Kwai Fong Burger Bar | 13 D'Aguilar Street, Central, Hong Kong | HKD 153 per person
+87. Admiralty Steakhouse | 88 Queensway, Admiralty, Hong Kong | HKD 348 per person
+88. Tsim Sha Tsui Afternoon Tea | 22 Salisbury Road, Tsim Sha Tsui, Hong Kong | HKD 288 per person
+89. Mong Kok Fried Chicken | 59 Nelson Street, Mong Kok, Hong Kong | HKD 72 per person
+90. Sham Shui Po Tofu Kitchen | 98 Pei Ho Street, Sham Shui Po, Hong Kong | HKD 52 per person
+91. Tsuen Wan Hotpot Club | 68 Chung On Street, Tsuen Wan, Hong Kong | HKD 208 per person
+92. Sha Tin Sushi Train | 18 Sha Tin Centre Street, Sha Tin, Hong Kong | HKD 143 per person
+93. Tai Po BBQ Terrace | 27 Tai Po Tai Wo Road, Tai Po, Hong Kong | HKD 128 per person
+94. Yuen Long Dessert House | 36 Kau Yuk Road, Yuen Long, Hong Kong | HKD 46 per person
+95. Tuen Mun Noodle Workshop | 25 Yan Ching Street, Tuen Mun, Hong Kong | HKD 59 per person
+96. Tseung Kwan O Seafood Grill | 18 Tong Yin Street, Tseung Kwan O, Hong Kong | HKD 196 per person
+97. Kwun Tong Craft Kitchen | 133 Hoi Bun Road, Kwun Tong, Hong Kong | HKD 137 per person
+98. Kai Tak Family Ramen | 5 Shing Kai Road, Kai Tak, Hong Kong | HKD 92 per person
+99. Hung Hom Harbour Cafe | 7 Hung Luen Road, Hung Hom, Hong Kong | HKD 111 per person
+100. West Kowloon Fine Dining | 8 Austin Road West, West Kowloon, Hong Kong | HKD 398 per person

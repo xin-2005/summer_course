@@ -1,0 +1,422 @@
+# COMPREHENSIVE LIBRARY REGULATION MANUAL
+### *Policy, Procedure, and Governance Framework*
+
+**Effective Date:** July 1, 2026
+**Version:** 4.2
+**Issuing Authority:** Board of Library Trustees / University Senate
+
+---
+
+## PART I: PREAMBLE AND MISSION
+
+### Section 1.1: Purpose of Regulations
+The Library is a cornerstone of intellectual freedom and community engagement. These regulations are established to:
+1.  Ensure equitable access to information resources.
+2.  Protect the rights of individual privacy while maintaining communal order.
+3.  Preserve the physical and digital collections for future generations.
+4.  Define the legal and ethical responsibilities of patrons and staff.
+
+### Section 1.2: Scope of Authority
+These regulations apply to all physical premises (Main Branch, Annexes, and Bookmobiles) and all digital platforms (Website, Catalog, Institutional Repository). Any individual entering the Library premises or accessing its remote systems (hereinafter referred to as "Patron") is subject to these rules.
+
+### Section 1.3: The Five Freedoms of the Library
+1.  **Freedom to Read:** Access to materials shall not be restricted based on origin, age, background, or views.
+2.  **Freedom to Explore:** Patrons may browse physical shelves and digital databases without surveillance regarding their search queries.
+3.  **Freedom to Inquire:** Patrons have the right to request information without judgment.
+4.  **Freedom of Assembly:** Meeting rooms are available for civic, cultural, and educational purposes.
+5.  **Freedom of Privacy:** Transactions and borrowing history are confidential except where required by law.
+
+---
+
+## PART II: MEMBERSHIP AND REGISTRATION
+
+### Section 2.1: Eligibility
+**Residents:** Any individual residing within the county or municipal boundaries is entitled to a free Library Card.
+**Non-Residents:** Individuals residing outside the service area may obtain a card upon payment of a non-resident fee (set annually by the Board).
+**Institutional Cards:** Schools, daycares, and corporate entities may apply for institutional cards to support educational and research needs.
+
+### Section 2.2: Application Process
+1.  **Identification:** Applicants must present a valid, government-issued photo ID.
+2.  **Proof of Address:** A recent utility bill, lease agreement, or piece of official mail is required to verify residency.
+3.  **Minor Applicants:** Children under the age of 13 require the physical signature of a parent or legal guardian who accepts financial responsibility for the child's account.
+
+### Section 2.3: Patron Categories
+- **Adult (18+):** Full borrowing privileges, interlibrary loan access, and database remote access.
+- **Teen (13-17):** Borrowing privileges; access to Young Adult zones; restricted access to adult-only digital databases (e.g., legal/medical databases may require parental consent).
+- **Child (0-12):** Borrowing privileges limited to juvenile collections unless accompanied by an adult; computer time limited to 45 minutes.
+- **Visiting Scholar:** Extended loan periods and special access to archives upon presentation of academic credentials.
+- **Digital-Only:** Access to e-books and streaming but no physical item borrowing.
+
+### Section 2.4: Card Replacement and Renewal
+A lost card must be reported immediately to prevent unauthorized use. A replacement fee of $5.00 is charged for the issuance of a new physical card. Library cards expire every three (3) years to verify current contact information. Renewal requires the same documentation as the initial application.
+
+---
+
+## PART III: CIRCULATION AND BORROWING POLICIES
+
+### Section 3.1: Loan Periods
+The standard loan period varies based on material type to ensure rotation and availability.
+
+| Material Type | Loan Period | Renewals Allowed |
+| :--- | :--- | :--- |
+| **General Books** | 21 Days | 2 (Max 63 days) |
+| **New Fiction** | 14 Days | 1 (Must be physically brought in) |
+| **Periodicals** | 7 Days | 0 |
+| **DVDs/Blu-Rays** | 7 Days | 1 (unless on hold) |
+| **Laptops/Tech** | 4 Hours | 0 (In-library use only) |
+| **Course Reserves** | 2 Hours | 0 (High demand) |
+| **Interlibrary Loan** | Variable | Depends on lending institution. |
+
+### Section 3.2: Renewal Procedures
+Patrons may renew items via:
+1.  **Online:** Through the "My Account" portal on the library website.
+2.  **Mobile:** Using the Library Mobile App.
+3.  **Telephone:** Calling the Circulation Desk (ext. 101).
+4.  **In-Person:** Visiting the service desk.
+
+**Rule:** Items with pending holds (requests from other patrons) are **non-renewable**. The system will automatically block renewal attempts.
+
+### Section 3.3: Holds and Requests
+1.  **Placing a Hold:** Patrons may place a hold on any item currently checked out. The system will notify the patron via email or SMS when the item is available.
+2.  **Hold Pickup:** Items will be held for **seven (7) days** at the designated pickup location. Failure to collect within seven days results in the item being returned to the shelf or passed to the next patron.
+3.  **Holds Limit:** Patrons may have a maximum of **twenty-five (25)** active holds at any given time.
+
+### Section 3.4: Overdue Fines and Fees
+To encourage the timely return of materials, the following fines are assessed:
+
+- **General Materials:** $0.25 per day, per item. Maximum fine: $10.00 per item.
+- **High-Demand Items (Reserves/Laptops):** $1.00 per hour. Maximum fine: $50.00.
+- **Interlibrary Loans:** $1.00 per day.
+
+**Note:** Fine forgiveness days may be declared quarterly (e.g., "Food for Fines") where patrons can donate non-perishable goods to waive up to $20 in fines.
+
+### Section 3.5: Lost or Damaged Materials
+1.  **Definition of Damaged:** Materials returned with water damage, missing pages, excessive highlighting, broken spines, or missing discs are considered damaged.
+2.  **Replacement Cost:** The patron is charged the current retail replacement cost of the item plus a non-refundable processing fee of $10.00.
+3.  **Billing:** Accounts with charges exceeding $25.00 are "blocked" (no borrowing privileges) until the balance is resolved.
+4.  **Collections:** Accounts with balances over $50.00 for more than 90 days are referred to a collections agency, which may affect the patron’s credit score.
+
+---
+
+## PART IV: DIGITAL RESOURCES AND ACCEPTABLE USE
+
+### Section 4.1: Wi-Fi and Network Access
+The Library provides free, unencrypted public Wi-Fi. The network is filtered as required by the **Children's Internet Protection Act (CIPA)** to block obscenity and child pornography. However, the Library does not filter social media, gaming, or legitimate research sites. Patrons use the Wi-Fi at their own risk regarding data security.
+
+### Section 4.2: Public Access Computers
+1.  **Reservations:** Computers may be reserved for 60-minute sessions. Reservations are made via the kiosk or the library app.
+2.  **Guest Passes:** Visitors without library cards may use "Guest Passes" issued at the Reference Desk, valid for one day only.
+3.  **Timing:** When others are waiting, usage is strictly limited to the allotted time.
+4.  **End of Session:** Patrons must log off completely. The Library is not responsible for unsaved work lost due to automatic shutdown.
+
+### Section 4.3: Prohibited Digital Activities
+The following activities are strictly forbidden on Library computers and networks:
+1.  **Illegal Activity:** Accessing, producing, or distributing child pornography; copyright infringement (mass downloading of protected media).
+2.  **Hacking:** Attempting to breach the Library's network security, accessing restricted configuration files, or deploying malware.
+3.  **Harassment:** Cyberbullying or creating a hostile environment for other users.
+4.  **Commercial Use:** Using library resources for for-profit business activities (excluding research and stock market monitoring).
+
+### Section 4.4: E-Readers and Downloadable Content
+Patrons may borrow pre-loaded e-readers or use their personal devices to download content via services like OverDrive/Libby or Hoopla.
+1.  **Format Limitations:** The Library does not guarantee that all content works with all devices.
+2.  **Return of Device:** Borrowed e-readers must be returned to the Circulation Desk; they cannot be returned via external book drops due to hardware fragility.
+3.  **Auto-Return:** Downloaded digital content expires automatically at the end of the loan period and does not accrue fines.
+
+---
+
+## PART V: PHYSICAL FACILITIES AND CONDUCT
+
+### Section 5.1: Code of Conduct
+The Library is a space for study, reflection, and quiet recreation. All patrons are expected to treat staff, volunteers, and fellow patrons with dignity and respect. Unacceptable behavior includes:
+
+1.  **Loud Behavior:** Excessive noise, loud music, or shouting. (Subject to the caveat: Children’s areas are exempt from strict silence rules during storytime).
+2.  **Disturbing Odors:** Strong perfume or personal hygiene issues that create a nuisance.
+3.  **Animals:** Only service animals as defined by the ADA (Americans with Disabilities Act) are permitted. Pets are prohibited. Emotional support animals are allowed only with documentation.
+4.  **Sleeping:** Sleeping is not permitted. Security staff reserve the right to wake patrons to ensure safety and security.
+5.  **Leaving Children Unattended:** Children under the age of 12 may not be left unattended in the library. The library is not a childcare facility. Staff must contact Child Protective Services if a child is left alone at closing.
+
+### Section 5.2: Food and Drink
+1.  **Designated Areas:** Food and covered drinks are permitted in the **Main Lobby** and **Study Carrels**. They are strictly prohibited at computer terminals and in the **Archives/Special Collections**.
+2.  **Stains/Damage:** Patrons who damage books or media with food/beverages are responsible for replacement costs.
+
+### Section 5.3: Photography and Filming
+1.  **Personal Use:** Photography is allowed for personal use if it does not disturb others.
+2.  **Commercial Use:** Filming for commercial projects requires a signed location release form submitted 48 hours in advance.
+3.  **Privacy:** Photographing or filming another patron without their explicit consent is prohibited and may result in expulsion.
+
+### Section 5.4: Study Rooms and Meeting Rooms
+1.  **Reservation:** Rooms can be booked up to one month in advance. Users must have a valid library card.
+2.  **Capacity:** Rooms have strict capacity limits to comply with fire codes.
+3.  **Noise:** Study rooms are "quiet zones." Meeting rooms are available for group discussions with moderate noise.
+4.  **Commercial Use:** Meeting rooms may not be used for commercial sales, solicitation, or religious services, except as approved by the Board.
+
+---
+
+## PART VI: SPECIAL COLLECTIONS AND ARCHIVES
+
+### Section 6.1: Non-Circulating Materials
+Special Collections (Rare Books, Local History, and Manuscripts) are for **reference use only** and cannot be checked out. Patrons must submit a request slip and present a valid ID to access the vault.
+
+### Section 6.2: Handling Protocols
+1.  **Gloves:** White cotton gloves are required for photographic materials and certain manuscripts.
+2.  **No Pens:** Pens are prohibited in the Archives; pencils must be used.
+3.  **Book Cradles:** Rare books must be viewed in a specialized cradle to prevent spine breakage.
+4.  **Use of Digital Cameras:** Patrons may take digital photos of materials (without flash) for research purposes; these images are for personal academic use only and cannot be published without permission.
+
+### Section 6.3: Retrieval Limits
+Due to the high value of these items, patrons are limited to **two (2)** archival boxes or **three (3)** rare books per visit to prevent chaos in the reading room.
+
+---
+
+## PART VII: INTERLIBRARY LOAN (ILL)
+
+### Section 7.1: Service Eligibility
+Interlibrary Loan (ILL) allows patrons to borrow materials from other libraries across the state and nation. Only patrons with an account in "Good Standing" (no fines over $10) are eligible.
+
+### Section 7.2: Request Process
+1.  Patrons must submit requests via the online ILL form or via the Reference Desk.
+2.  The Library uses the OCLC WorldShare system to locate items.
+
+### Section 7.3: Lending Institution Rules
+When using ILL, patrons must adhere to the lending library's rules, specifically:
+- **Loan Period:** Set by the lending library.
+- **Renewals:** Must be requested at least 3 days before the due date. Not always granted.
+- **Lost Items:** The Library charges the patron the fee levied by the lending library, plus a local processing fee.
+
+---
+
+## PART VIII: PROGRAMMING AND PUBLIC EVENTS
+
+### Section 8.1: Purpose of Programs
+The Library hosts events for educational, cultural, and recreational enrichment. These include author talks, STEM workshops, storytimes, and art exhibits.
+
+### Section 8.2: Registration
+Some programs require mandatory registration due to space and material constraints.
+1.  **No-Shows:** Patrons who register and fail to attend three (3) times without cancellation forfeit the right to pre-register for future high-demand events.
+2.  **Cancellation:** Cancellation must be made via the website or phone at least 2 hours before the event start.
+
+### Section 8.3: Photography at Events
+The Library often photographs events for promotional purposes. Notice of photography is posted at the entrance. By entering a program, patrons tacitly consent to photography. Those who do not wish to be photographed must identify themselves to the photographer.
+
+---
+
+## PART IX: STAFF REGULATIONS AND OPERATIONAL PROCEDURES
+
+### Section 9.1: Staff Code of Conduct
+Library staff are representatives of the institution and must adhere to strict professional ethics:
+1.  **Neutrality:** Staff must provide service without prejudice based on race, creed, color, gender, or sexual orientation.
+2.  **Confidentiality:** Staff are legally prohibited from discussing a patron's reading history with anyone (including spouses or law enforcement) without a legal subpoena.
+3.  **Dress Code:** Professional attire or designated uniform shirts are required; closed-toed shoes for safety are mandatory for staff working in stacks or loading docks.
+
+### Section 9.2: Opening and Closing Procedures
+- **Opening (Morning):**
+    - Check fire exits and alarm systems.
+    - Turn on all public PCs and digital signage.
+    - Clear the drop box and check in returned items.
+    - Scan the floors for hazards.
+- **Closing (Evening):**
+    - Announce closing notice 15 minutes prior to closing.
+    - Ensure all restrooms are clear.
+    - Close and secure the vault and Rare Books room.
+    - Set the security alarm.
+
+### Section 9.3: Emergency Procedures
+1.  **Fire Alarm:** Staff must evacuate all patrons via the nearest exits. No one is allowed to use elevators. Staff must perform a sweep of restrooms.
+2.  **Medical Emergency:** Staff are trained in First Aid and CPR. AED machines are located near the Circulation Desk.
+3.  **Active Shooter:** Lockdown protocols are initiated. Staff lock the entry doors and direct patrons to the "Safe Rooms" or interior rooms, away from windows.
+4.  **Suspicious Packages:** Do not touch. Isolate the area and call 911.
+
+### Section 9.4: Inventory and Weeding (Collection Management)
+The Library is a dynamic entity, not a warehouse. Weeding (removal of materials) follows the **CREW Method** (Continuous Review, Evaluation, and Weeding):
+1.  **Condition:** Books that are physically falling apart.
+2.  **Content:** Outdated medical or scientific information (e.g., computer manuals older than 3 years).
+3.  **Usage:** Items that have not been checked out in over 3 years are generally withdrawn.
+4.  **Discard Procedure:** Withdrawn books are either sold in the "Friends of the Library" book sale, donated to prisons/schools, or recycled.
+
+---
+
+## PART X: PRIVACY POLICY AND DATA RETENTION
+
+### Section 10.1: Patron Records
+The Library respects the confidentiality of each patron. The Library does not sell or share patron email addresses or phone numbers with third-party vendors except as necessary for the automated circulation system (e.g., notifications).
+
+### Section 10.2: Retention of Records
+Under state law, the Library retains circulation history for six (6) months after the item is returned. After six months, the transaction data is permanently purged from the system to protect patron privacy.
+
+### Section 10.3: Public Records Requests
+If a Public Records Act request is received for circulation data, the Library will:
+1.  Review the request for legal sufficiency.
+2.  Notify the affected patron (unless prohibited by law).
+3.  Seek legal counsel before complying.
+
+---
+
+## PART XI: SECURITY AND LOSS PREVENTION
+
+### Section 11.1: RFID and Security Gates
+All library materials are tagged with RFID chips. The security gates at the entrance/exit are active. If an item is not checked out, the gates will sound an alarm.
+
+### Section 11.2: Bag Checks
+The Library reserves the right to inspect bags, briefcases, and backpacks. Patrons may be asked to open bags at the request of security staff. This is to prevent the theft of materials or damage to property.
+
+### Section 11.3: Banning and Suspension of Privileges
+The Library Director or Security Officer has the authority to suspend library privileges or ban individuals from the premises for:
+1.  Assaulting a staff member.
+2.  Vandalizing property.
+3.  Drug use on premises.
+4.  Theft of library materials.
+
+**Duration:** Bans can range from **1 year to Lifetime**, depending on the severity of the offense. Banned patrons have the right to appeal to the Board of Trustees within 30 days of the suspension.
+
+---
+
+## PART XII: INCLUSION, DIVERSITY, AND ACCESSIBILITY
+
+### Section 12.1: ADA Compliance
+The Library is fully accessible to individuals with disabilities.
+1.  **Wheelchair Access:** All entrances have power-assisted doors. Study carrels are spaced for wheelchair maneuverability.
+2.  **Talking Books:** The library participates in the National Library Service for the Blind and Physically Handicapped.
+3.  **Visual Aids:** Large print books and magnifying readers are available.
+4.  **Assistive Tech:** Screen reader software (JAWS) and adjustable keyboards are on public PCs.
+
+### Section 12.2: Language Access
+Materials are available in Spanish, Mandarin, and Tagalog. Translation services are available via the "Language Line" phone service at the Reference Desk for patrons who do not speak English.
+
+### Section 12.3: Collection Development Diversity Policy
+The Library seeks to create a collection that represents a wide range of viewpoints and cultural experiences. We specifically acquire materials by authors from underrepresented backgrounds. We do not remove materials solely because they are socially controversial, sexually explicit, or politically inflammatory (per the Library Bill of Rights).
+
+---
+
+## PART XIII: FRIENDS OF THE LIBRARY AND VOLUNTEERS
+
+### Section 13.1: Friends of the Library
+The "Friends" is a 501(c)(3) non-profit that supports the library through fundraising and advocacy.
+1.  **Book Sales:** The Friends run the monthly book sale. Prices are set by the Friends board.
+2.  **Donations:** The Friends accept donated used books. The Library does not accept encyclopedias, moldy books, or Readers' Digest Condensed Books.
+
+### Section 13.2: Volunteer Program
+Volunteers assist with shelving, programs, and admin tasks.
+1.  **Background Checks:** Volunteers working with minors must undergo a criminal background check.
+2.  **Hours:** Volunteers are expected to commit to a minimum of 4 hours per week.
+3.  **Chain of Command:** Volunteers report to the Volunteer Coordinator, not directly to the Reference Librarians.
+
+---
+
+## PART XIV: PENALTIES AND ENFORCEMENT
+
+### Section 14.1: Schedule of Penalties
+For violations of the Code of Conduct, a progressive discipline system is used:
+
+| Offense | First Offense | Second Offense | Third Offense |
+| :--- | :--- | :--- | :--- |
+| **Noise Violation** | Verbal Warning | 24-Hour Ban | 1-Week Ban |
+| **Food in Terminal Area** | Verbal Warning | $5 Fine | 24-Hour Ban |
+| **Harassment** | Immediate 30-Day Ban | 6-Month Ban | Permanent Ban |
+| **Theft of Material** | Permanent Ban + Restitution | N/A | N/A |
+
+### Section 14.2: Law Enforcement Cooperation
+The Library will cooperate with law enforcement if a crime (theft, assault, child endangerment) is committed on the premises.
+
+---
+
+## PART XV: COMPUTER RECYCLING AND SUSTAINABILITY
+
+### Section 15.1: Green Initiatives
+1.  **Recycling Stations:** Located at every entrance for plastic, paper, and glass.
+2.  **E-Waste:** The library hosts quarterly e-waste recycling drop-offs for old cell phones and printers.
+3.  **Lighting:** Motion-sensor lights in restrooms and stacks to conserve energy.
+
+---
+
+## PART XVI: FINANCIAL POLICIES
+
+### Section 16.1: Fines and Payment Plans
+Patrons facing financial hardship may request a payment plan for large outstanding balances (over $50). This requires signing a formal agreement with the Circulation Manager.
+
+### Section 16.2: Printing and Photocopying
+1.  **Cost:** Black and white: $0.10 per page. Color: $0.50 per page.
+2.  **Microfilm:** Prints are $0.25 per page.
+3.  **Cashless:** The library operates a "cashless" system; patrons must add funds to their library card account or use a debit/credit card at the Print Kiosk.
+
+---
+
+## PART XVII: REVISIONS AND AMENDMENTS
+
+### Section 17.1: Annual Review
+The Board of Trustees reviews these regulations annually. Proposed amendments are published on the Library website and physical bulletin boards for 30 days before a public hearing.
+
+### Section 17.2: Effective Date
+This policy supersedes all previous regulations dating back to the 1980s and is effective as of the date signed by the Chair of the Board.
+
+---
+
+## PART XVIII: FREQUENTLY ASKED QUESTIONS (FAQ) - FOR PATRON GUIDANCE
+
+*While not strictly regulatory, this section is included in the manual for clarity.*
+
+**Q: What do I do if I accidentally take a book home that wasn't checked out?**
+A: Please bring it to the Circulation Desk as soon as possible. If the security alarm sounds, stop immediately. As long as you return it, you won't be penalized.
+
+**Q: Can I return items to a different library branch?**
+A: Yes, our county system allows for return to any branch.
+
+**Q: What if I lost my receipt and don't know my due date?**
+A: Check your email for the auto-generated checkout receipt. Alternatively, log into the "My Account" section of the website to see all active checkouts.
+
+**Q: Can I bring my emotional support peacock into the library?**
+A: No. Only dogs and miniature horses are recognized as service animals under the ADA. Pets are strictly prohibited.
+
+**Q: Why was my tax-funded book on sex education removed?**
+A: We follow the "Materials Selection Policy," which is based on professional reviews (e.g., Kirkus, School Library Journal). The library does not censor based on "discomfort." However, if the book was falling apart, it was "weeded" and will be replaced.
+
+---
+
+## APPENDIX A: GLOSSARY OF TERMS
+
+1.  **RAG Agent:** *Retrieval-Augmented Generation.* An AI system that uses vector databases to retrieve relevant chunks of text to inform a Large Language Model (LLM) to answer questions. In the context of this manual, it is used to parse policy queries.
+2.  **Circulation:** The process of lending and returning library materials.
+3.  **Hold:** A reservation placed on a specific item.
+4.  **Interlibrary Loan (ILL):** The process of borrowing materials from an external library system.
+5.  **Weeding:** The systematic removal of outdated or damaged materials.
+6.  **RFID:** Radio Frequency Identification; used in library tags to track inventory and prevent theft.
+7.  **CIPA:** Children's Internet Protection Act; mandates content filtering for federally funded libraries.
+8.  **CREW Method:** An acronym for a specific collection development weeding methodology.
+9.  **OPAC:** Online Public Access Catalog (the search system for the library).
+
+---
+
+## APPENDIX B: SAMPLE FORMS
+
+### 1. Incident Report Form
+- **Date/Time:** _____________
+- **Location (Section):** _____________
+- **Patron Name (if known):** _____________
+- **Staff Witness:** _____________
+- **Description of Incident:** _____________
+- **Action Taken:** _____________
+
+### 2. Request for Reconsideration of Library Material
+*If a patron feels a material is inappropriate, they must fill out this form. It does not guarantee removal.*
+
+1.  **Title/Author:** _____________
+2.  **Reason for complaint:** _____________
+3.  **What do you believe the material lacks?** _____________
+4.  **What alternative material do you suggest?** _____________
+
+---
+
+## SIGNATURES
+
+**Approved by the Board of Library Trustees:**
+
+____________________________________
+*Chair, Board of Trustees*
+
+____________________________________
+*Library Director*
+
+**Date:** ____________________
+
+---
+
+*This document is generated for use in a RAG agent. For specific policy details, please refer to the relevant section in the digital database.*
